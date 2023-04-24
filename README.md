@@ -1,4 +1,4 @@
 # Asteroids-game
-This game is a Java version of the game Asteroids. 
+This game is an exciting Java adaptation of the classic Asteroids game. In this game, players must navigate a spaceship and blast away all the incoming asteroids to score points. 
 
-In this game, the player needs to control the ship to destroy all the rocks that fly at the ship. If the player is hit by a rock by accident, they will have 3 lifes to make sure they can destroy all the rocks. Once the player destroys all the rocks or the player runs out of lives, the game will be over and show the player's current score.
+However, players must be careful not to collide with the asteroids, as this will cause the player to lose one of their three lives. The objective is to destroy as many asteroids as possible and score as many points as you can before losing all your lives. Once the player has either eliminated all the asteroids or exhausted their lives, the game will end, and the player's final score will be displayed. With its challenging gameplay and engaging mechanics, this Java version of Asteroids is sure to keep players entertained for hours.
